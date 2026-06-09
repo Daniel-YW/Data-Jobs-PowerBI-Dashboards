@@ -1,4 +1,4 @@
-# 📌 Data Jobs Dashboard (Power BI)
+# Data Jobs Dashboard (Power BI)
 
 ## Overview
 This project is a Power BI dashboard that analyzes the global data job market.  
@@ -8,7 +8,7 @@ The goal is to help data professionals and recruiters understand hiring trends a
 
 ---
 
-## 🎯 Objective
+## Objective
 
 - Analyze trends in data-related job postings  
 - Identify the most in-demand skills  
@@ -18,7 +18,7 @@ The goal is to help data professionals and recruiters understand hiring trends a
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains job postings related to data roles such as:
 
@@ -37,14 +37,14 @@ It includes fields such as:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Power BI  
 - Excel / CSV (data source)  
 
 ---
 
-## 🔄 Data Workflow
+## Data Workflow
 
 Data Collection  
 → Dashboard Design  
@@ -52,7 +52,7 @@ Data Collection
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 ### 1. Salary Analysis
 - Average salary by job role  
@@ -72,15 +72,15 @@ Data Collection
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 Data-Jobs-Dashboard/
